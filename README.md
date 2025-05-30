@@ -62,10 +62,17 @@ tensorboard --logdir=logs/fit
 3. Run the Python file:python Home_Assignment_1_charan_santhosh.py
 
 ## Output Screenshot Example:
+#Task 1
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/957a6e9c-e27b-4516-a227-d7a9a4fd61de" />
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/f50499d1-c3f9-4481-97d0-ab56c5e43482" />
+
+#Task2
+
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/80d34898-f9bc-4968-ae82-4e4ccc976e5d" />
+
+#Task3
+
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/c50e2720-e237-489e-92d0-bb07746565c6" />
 
 

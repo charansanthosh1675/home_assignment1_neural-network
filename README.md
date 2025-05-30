@@ -55,3 +55,24 @@ tensorboard --logdir=logs/fit
 - Make sure to `pip install tensorflow matplotlib` if not already installed.
 ---
 
+## How to Run This Project
+
+1. Clone the repo:git clone https://github.com/charansanthosh1675/home_assignment1_neural-network.git
+2. Install required libraries:pip install tensorflow matplotlib
+3. Run the Python file:python Home_Assignment_1_charan_santhosh.py
+
+## Output Screenshot Example:
+
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/957a6e9c-e27b-4516-a227-d7a9a4fd61de" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f50499d1-c3f9-4481-97d0-ab56c5e43482" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/80d34898-f9bc-4968-ae82-4e4ccc976e5d" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c50e2720-e237-489e-92d0-bb07746565c6" />
+
+
+
+
+
+
+
+
+

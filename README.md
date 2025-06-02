@@ -75,6 +75,19 @@ tensorboard --logdir=logs/fit
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/c50e2720-e237-489e-92d0-bb07746565c6" />
 
+#Tensorboard graphs
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/963c0645-beae-419c-bd9d-da0af46d5cf5" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/6da9c27c-dec4-4bad-8651-191549e8d5c0" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/816b0cd0-2d3c-4152-8069-6f58465bbcef" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d8cbbaea-3ab4-43af-9f7a-f91f2f313f05" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/39b64e53-e927-4e55-bd5e-9c4569df3112" />
+
+
+
+
+
+
 
 
 
